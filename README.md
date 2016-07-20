@@ -13,8 +13,9 @@ For Windows
 
 Check the system requirements above and follow the below steps to download the Android Studio,
 
-  Android Studio is Android's official IDE.  Download using this link: https://developer.android.com/studio/index.html 
-While the Android Studio download completes, verify which version of the JDK you have: open a command line and type javac -version. If the JDK is not available or the version is lower than 1.8, download the Java SE Development Kit 8 here using this link: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html.
+1.) Android Studio is Android's official IDE.  Download using this link: https://developer.android.com/studio/index.html 
+  
+2.) While the Android Studio download completes, verify which version of the JDK you have: open a command line and type javac -version. If the JDK is not available or the version is lower than 1.8, download the Java SE Development Kit 8 here using this link: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html.
 
 Install Android Studio:
 
