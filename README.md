@@ -1,8 +1,8 @@
 # Easy-Response-App
 Listens to User’s whistling sound to answer the phone. User can reject the call by just shaking the phone. Activate voice commands to invoke Camera, Music, and Nearby Restaurants etc. Used an API “musicG.jar” Audio Analysis Library and Sensor Manager.
 
-System Requirements:
-For Windows
+System Requirements For Windows:
+
 •	Microsoft® Windows® 7/8/10 (32- or 64-bit)
 •	2 GB RAM minimum, 8 GB RAM recommended
 •	2 GB of available disk space minimum,
@@ -35,7 +35,7 @@ How to Run:
      2.) Create a new project. 
 You already have a project so just go the path and open the unzipped file. It will open the project in the Android studio. Download the latest SDK tools and platforms using the SDK Manager before running the project.
 
-Run on a Real Device:
+Run on a Android Device:
 
 If you have a device running Android, here's how to install and run your app.
 
@@ -47,9 +47,8 @@ Run the app from Android Studio
 1.	Select one of your project's files and click Run   from the toolbar.
 3.	In the Choose Device window that appears, select the Choose a running device radio button, select your device, and click OK .
 4.	Android Studio installs the app on your connected device and starts it
-5.	 Smile appears on the emulator screen. “Smile is project name which I given”
 
-Tips: If you are new to the android developer follow the link to get good understanding. https://developer.android.com/training/basics/firstapp/index.html
+Tips: If you are new to the android developement follow the link to get good understanding. https://developer.android.com/training/basics/firstapp/index.html
 
 
 
